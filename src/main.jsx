@@ -5,8 +5,8 @@ import './index.css'
 import App from './App.jsx'
 import Uper from './components/Uper.jsx'
 import Uperone from './components/Uperone.jsx'
-import Upertwo from './components/upertwo.jsx'
-import Uperthree from './components/uperthree.jsx'
+import Upertwo from './components/Upertwo.jsx'
+import Uperthree from './components/Uperthree.jsx'
 import Upperfive from './components/Upperfive.jsx'
 
 
